@@ -29,9 +29,14 @@
       {% if img %}
         <img class="mb-4" src="static/{{img}}" alt="" width="256" height="256">
         <br>
-      {% endif %}
-      {% if output %}
-        <h2>{{output}}</h2>
+        {% for i in range(3) %}
+          {% if i == 0 %}
+            <span href = "" class="badge badge-pill badge-success">{{outputs[i]}} ({{confidences[i]}})</span>
+          {% else %}
+          <span href="#" class="badge badge-pill badge-secondary">{{outputs[i]}} ({{confidences[i]}})</span>
+          {% endif %}
+          <br>
+        {% endfor %}
       {% endif %}
     </form>
   </body>

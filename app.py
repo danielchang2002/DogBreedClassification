@@ -32,5 +32,7 @@ def result():
     if not uploaded_file.filename:
         return redirect(url_for('/'))
     uploaded_file.save('static'/imgPath/uploaded_file.filename)
-    output = model.predict('static'/imgPath/uploaded_file.filename)
-    return render_template('index.html', img=imgPath/uploaded_file.filename, output=output)
+    outputs, confidences = model.predict('static'/imgPath/uploaded_file.filename)
+    return render_template('index.html', 
+    img=imgPath/uploaded_file.filename, 
+    outputs=outputs, confidences=confidences)
