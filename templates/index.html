@@ -1,0 +1,38 @@
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="icon" href="/docs/4.0/assets/img/favicons/favicon.ico">
+
+    <title>Dog Breed Classifier</title>
+
+    <link rel="canonical" href="https://getbootstrap.com/docs/4.0/examples/sign-in/">
+
+    <!-- Bootstrap core CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom styles for this template -->
+    <link href="/static/css/signin.css" rel="stylesheet">
+  </head>
+
+  <body class="text-center">
+    <form method=post enctype=multipart/form-data class="form-signin">
+      <h1 class="h3 mb-3 font-weight-normal">Dog Breed Classifier</h1>
+      <input type="file" name=file id="inputEmail" class="form-control" placeholder="Email address" required autofocus>
+      <br>
+      <button class="btn btn-lg btn-primary btn-block" type="submit">Predict</button>
+      <br>
+      {% if img %}
+        <img class="mb-4" src="static/{{img}}" alt="" width="256" height="256">
+        <br>
+      {% endif %}
+      {% if output %}
+        <h2>{{output}}</h2>
+      {% endif %}
+    </form>
+  </body>
+</html>
