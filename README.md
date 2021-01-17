@@ -36,12 +36,12 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">project_title</h3>
+  <h3 align="center">Dog Breed Classifier</h3>
 
   <p align="center">
-    project_description
+    Dog breed classifier built with the ResNet architcture and ImageNet transfer learning: trained on the Stanford dog breed dataset
     <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/danielchang2002/repo_name"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://github.com/github_username/repo_name">View Demo</a>
@@ -108,20 +108,20 @@ To get a local copy up and running follow these simple steps.
 ### Prerequisites
 
 This is an example of how to list things you need to use the software and how to install them.
-* npm
+* pip
   ```sh
-  npm install npm@latest -g
+pip install -r requirements.txt
   ```
 
 ### Installation
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/github_username/repo_name.git
+   git clone https://github.com/danielchang2002/DogBreedClassifier.git
    ```
-2. Install NPM packages
+2. Pip install requirements
    ```sh
-   npm install
+    pip install -r requirements.txt
    ```
 
 
@@ -129,9 +129,7 @@ This is an example of how to list things you need to use the software and how to
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
+<img src="screenshot.png">
 
 
 
@@ -207,7 +205,6 @@ Dataset:
 https://www.kaggle.com/jessicali9530/stanford-dogs-dataset
 
 
-pip install -r requirements.txt
 
 Works referenced:
 https://www.youtube.com/watch?v=BUh76-xD5qU&t=2259s&ab_channel=AbhishekThakur

@@ -1,2 +1,3 @@
 *.ipynb
 /resnet34
+*.png
