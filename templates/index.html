@@ -31,9 +31,9 @@
         <br>
         {% for i in range(3) %}
           {% if i == 0 %}
-            <span href = "" class="badge badge-pill badge-success">{{outputs[i]}} ({{confidences[i]}})</span>
+            <span href = "" class="badge badge-success">{{outputs[i]}} ({{confidences[i]}})</span>
           {% else %}
-          <span href="#" class="badge badge-pill badge-secondary">{{outputs[i]}} ({{confidences[i]}})</span>
+          <span href="#" class="badge badge-secondary">{{outputs[i]}} ({{confidences[i]}})</span>
           {% endif %}
           <br>
         {% endfor %}
