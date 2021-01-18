@@ -17,11 +17,13 @@
 
     <!-- Custom styles for this template -->
     <link href="/static/css/signin.css" rel="stylesheet">
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🐶</text></svg>">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
   </head>
 
   <body class="text-center">
     <form method=post enctype=multipart/form-data class="form-signin">
-      <h1 class="h3 mb-3 font-weight-normal">Dog Breed Classifier</h1>
+      <h1 class="h3 mb-3 font-weight-normal">Dog Breed Classifier 🐶</h1>
       <input type="file" name=file id="inputEmail" class="form-control" placeholder="Email address" required autofocus>
       <br>
       <button class="btn btn-lg btn-primary btn-block" type="submit">Predict</button>
@@ -38,6 +40,9 @@
           <br>
         {% endfor %}
       {% endif %}
+      <p class="mt-5 mb-3 text-muted">
+        <a href="https://github.com/danielchang2002/DogBreedClassification"><i class="fa fa-github" aria-hidden="true"></i> source</a>
+      </p>
     </form>
   </body>
 </html>
