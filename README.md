@@ -84,16 +84,12 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-Here's a blank template to get started:
-**To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`github_username`, `repo_name`, `twitter_handle`, `email`, `project_title`, `project_description`
-
 
 ### Built With
 
-* []()
-* []()
-* []()
+* []() a href="https://docs.fast.ai/">fastai</a>
+* []() a href="https://flask.palletsprojects.com/en/1.1.x/">flask</a>
+* []() a href="heroku.com">heroku</a>
 
 
 
@@ -104,7 +100,6 @@ To get a local copy up and running follow these simple steps.
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
 * pip
   ```sh
     pip install -r requirements.txt
@@ -116,9 +111,9 @@ This is an example of how to list things you need to use the software and how to
    ```sh
    git clone https://github.com/danielchang2002/DogBreedClassifier.git
    ```
-2. Pip install requirements
+2. Run Flask app
    ```sh
-    pip install -r requirements.txt
+    flask run
    ```
 
 
