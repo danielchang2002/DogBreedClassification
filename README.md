@@ -87,9 +87,9 @@
 
 ### Built With
 
-* []() a href="https://docs.fast.ai/">fastai</a>
-* []() a href="https://flask.palletsprojects.com/en/1.1.x/">flask</a>
-* []() a href="heroku.com">heroku</a>
+* [https://docs.fast.ai/](fastai)
+* [https://flask.palletsprojects.com/en/1.1.x/](flask)
+* [heroku.com](heroku)
 
 
 
@@ -167,10 +167,10 @@ Project Link: [https://github.com/danielchang2002/DogBreedClassification](https:
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 
-* []()https://github.com/fastai/fastbook/blob/master/01_intro.ipynb
-* []()https://www.youtube.com/watch?v=BUh76-xD5qU&t=2259s&ab_channel=AbhishekThakur
-* []()https://flask.palletsprojects.com/en/1.1.x/
-* []()https://www.kaggle.com/jessicali9530/stanford-dogs-dataset
+* [https://github.com/fastai/fastbook/blob/master/01_intro.ipynb](fastai lesson)
+* [https://www.youtube.com/watch?v=BUh76-xD5qU&t=2259s&ab_channel=AbhishekThakur](deployment instructions)
+* [https://flask.palletsprojects.com/en/1.1.x/](flask documentation)
+* [https://www.kaggle.com/jessicali9530/stanford-dogs-dataset](stanford dataset on kaggle)
 
 
 
