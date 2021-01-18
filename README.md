@@ -28,7 +28,7 @@ Dog breed classifier built with the ResNet architecture and ImageNet transfer le
 ### Built With
 
 * [fastai/pytorch](https://docs.fast.ai/)
-* [kaggle notebook] (https://www.kaggle.com/danielchang2002/dog-breed-classification)
+* [kaggle notebook](https://www.kaggle.com/danielchang2002/dog-breed-classification)
 * [flask](https://flask.palletsprojects.com/en/1.1.x/)
 * [heroku](heroku.com)
 
