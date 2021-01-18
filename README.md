@@ -3,7 +3,7 @@
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
-  <summary><h2 style="display: inline-block">Table of Contents</h2></summary>
+  <summary>Table of Contents</summary>
   <ol>
     <li>
       <a href="#about-the-project">About The Project</a>
@@ -30,11 +30,6 @@ Dog breed classifier built with the ResNet architecture and ImageNet transfer le
 * [https://docs.fast.ai/](fastai/pytorch)
 * [https://flask.palletsprojects.com/en/1.1.x/](flask)
 * [heroku.com](heroku)
-
-
-## Getting Started
-=======
-![](screenshot.png)
 
 ## Installation
 
