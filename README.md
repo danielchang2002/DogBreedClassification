@@ -110,7 +110,7 @@ To get a local copy up and running follow these simple steps.
 This is an example of how to list things you need to use the software and how to install them.
 * pip
   ```sh
-pip install -r requirements.txt
+    pip install -r requirements.txt
   ```
 
 ### Installation
@@ -130,6 +130,9 @@ pip install -r requirements.txt
 ## Usage
 
 <img src="screenshot.png">
+
+Deployed live at: 
+https://dog-neural-net.herokuapp.com/
 
 
 
@@ -195,8 +198,6 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/github_username
 
-Deployed live at: 
-https://dog-neural-net.herokuapp.com/
 
 Dog breed classifier built using a convolutional neural network trained on the Stanford dog breed dataset. The ResNet34 and ResNet50 architectures were used, along with transfer learning with ImageNet weights.
 Workflow mimicked the one present in the first lesson of the fastai course.

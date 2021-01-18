@@ -6,7 +6,7 @@ import torch
 class Model():
     def __init__(self, path):
         self.learn = load_learner(path)
-        self.classes = self.learn.data.classes
+        self.classes = [c[10:] for c in self.learn.data.classes]
 
     def predict(self, uploaded_file):
         img = open_image(uploaded_file)
@@ -18,7 +18,7 @@ class Model():
     
     def getClass(self, idx):
         c = self.classes[idx]
-        output = ' '.join(c.split('-')[1].split('_'))
+        output = c.replace("_", " ").title()
         return output
     
     def getPercentage(self, f, prec):
