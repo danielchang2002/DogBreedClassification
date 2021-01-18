@@ -62,7 +62,8 @@ Dog breed classifier built with the ResNet architecture and ImageNet transfer le
 
 ## Usage
 
-![screenshot of demo](screenshot.png?raw=true "Demo Screenshot")
+![screenshot of demo](screenshot.png?raw=true "Demo Screenshot"){:height="50%" width="50%"}
+
 
 Deployed live at: 
 https://dog-neural-net.herokuapp.com/
