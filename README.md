@@ -51,11 +51,11 @@ Dog breed classifier built with the ResNet architecture and ImageNet transfer le
 
 
 
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
+    <a href="https://dog-neural-net.herokuapp.com/">View Demo</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
+    <a href="https://github.com/danielchang2002/DogBreedClassification/issues">Report Bug</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
+    <a href="https://github.com/danielchang2002/DogBreedClassification/issues">Request Feature</a>
   </p>
 </p>
 
