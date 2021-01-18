@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 <!--
 *** Thanks for checking out the Best-README-Template. If you have a suggestion
 *** that would make this better, please fork the repo and create a pull request
@@ -50,6 +51,10 @@
 </p>
 
 
+=======
+# Dog Breed Classifier
+> Neural network that classifies the top 120 dog breeds 
+>>>>>>> Stashed changes
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
@@ -64,21 +69,21 @@
     <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
+    <li><a href="#contributing">Contributing</a></li>
     <li><a href="#acknowledgements">Acknowledgements</a></li>
   </ol>
 </details>
 
+## About the Project
 
+Dog breed classifier built with the ResNet architecture and ImageNet transfer learning: trained on the Stanford dog breed dataset with the fastai library for pytorch
 
+<<<<<<< Updated upstream
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
@@ -93,18 +98,32 @@
 
 <!-- GETTING STARTED -->
 ## Getting Started
+=======
+![](screenshot.png)
 
-To get a local copy up and running follow these simple steps.
+### Built With
 
-### Prerequisites
+* [https://docs.fast.ai/](fastai/pytorch)
+* [https://flask.palletsprojects.com/en/1.1.x/](flask)
+* [heroku.com](heroku)
+>>>>>>> Stashed changes
 
+## Installation
+
+
+<<<<<<< Updated upstream
 * pip
   ```sh
+=======
+```sh
+    git clone https://github.com/danielchang2002/DogBreedClassification.git
+>>>>>>> Stashed changes
     pip install -r requirements.txt
-  ```
+```
 
-### Installation
+## Meta
 
+<<<<<<< Updated upstream
 1. Clone the repo
    ```sh
    git clone https://github.com/danielchang2002/DogBreedClassifier.git
@@ -113,10 +132,46 @@ To get a local copy up and running follow these simple steps.
    ```sh
     flask run
    ```
+=======
+Daniel Chang – [@YourTwitter](https://twitter.com/danielchang2002) – danielchang2002@gmail.com
+>>>>>>> Stashed changes
+
+https://github.com/danielchang2002/
+
+## Contributing
+
+1. Fork it (<https://github.com/yourname/yourproject/fork>)
+2. Create your feature branch (`git checkout -b feature/fooBar`)
+3. Commit your changes (`git commit -am 'Add some fooBar'`)
+4. Push to the branch (`git push origin feature/fooBar`)
+5. Create a new Pull Request
 
 
 
-<!-- USAGE EXAMPLES -->
+    <a href="https://github.com/github_username/repo_name">View Demo</a>
+    ·
+    <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
+  </p>
+</p>
+
+
+
+<<<<<<< Updated upstream
+See the [open issues](https://github.com/danielchang2002/DogBreedClassification/issues) for a list of proposed features (and known issues).
+=======
+>>>>>>> Stashed changes
+
+
+
+
+
+
+
+
+<<<<<<< Updated upstream
+=======
 ## Usage
 
 <img src="screenshot.png">
@@ -126,26 +181,7 @@ https://dog-neural-net.herokuapp.com/
 
 
 
-<!-- ROADMAP -->
-## Roadmap
-
-See the [open issues](https://github.com/danielchang2002/DogBreedClassification/issues) for a list of proposed features (and known issues).
-
-
-
-<!-- CONTRIBUTING -->
-## Contributing
-
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-
-
+>>>>>>> Stashed changes
 <!-- CONTACT -->
 ## Contact
 
