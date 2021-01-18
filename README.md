@@ -27,9 +27,9 @@ Dog breed classifier built with the ResNet architecture and ImageNet transfer le
 
 ### Built With
 
-* [https://docs.fast.ai/](fastai/pytorch)
-* [https://flask.palletsprojects.com/en/1.1.x/](flask)
-* [heroku.com](heroku)
+* [fastai/pytorch](https://docs.fast.ai/)
+* [flask](https://flask.palletsprojects.com/en/1.1.x/)
+* [heroku](heroku.com)
 
 ## Installation
 
@@ -79,10 +79,10 @@ Project Link: [https://github.com/danielchang2002/DogBreedClassification](https:
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 
-* [https://github.com/fastai/fastbook/blob/master/01_intro.ipynb](fastai lesson)
-* [https://www.youtube.com/watch?v=BUh76-xD5qU&t=2259s&ab_channel=AbhishekThakur](deployment instructions)
-* [https://flask.palletsprojects.com/en/1.1.x/](flask documentation)
-* [https://www.kaggle.com/jessicali9530/stanford-dogs-dataset](stanford dataset on kaggle)
+* [fastai lesson](https://github.com/fastai/fastbook/blob/master/01_intro.ipynb)
+* [deployment tutorial](https://www.youtube.com/watch?v=BUh76-xD5qU&t=2259s&ab_channel=AbhishekThakur)
+* [flask documentation](https://flask.palletsprojects.com/en/1.1.x/)
+* [Stanford dataset on Kaggle](https://www.kaggle.com/jessicali9530/stanford-dogs-dataset)
 
 
 
