@@ -179,17 +179,17 @@ Project Link: [https://github.com/danielchang2002/DogBreedClassification](https:
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/danielchang2002/repo.svg?style=for-the-badge
-[contributors-url]: https://github.com/danielchang2002/repo/graphs/contributors
+[contributors-url]: https://github.com/danielchang2002/DogBreedClassification/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/danielchang2002/repo.svg?style=for-the-badge
-[forks-url]: https://github.com/danielchang2002/repo/network/members
+[forks-url]: https://github.com/danielchang2002/DogBreedClassification/network/members
 [stars-shield]: https://img.shields.io/github/stars/danielchang2002/repo.svg?style=for-the-badge
-[stars-url]: https://github.com/danielchang2002/repo/stargazers
+[stars-url]: https://github.com/danielchang2002/DogBreedClassification/stargazers
 [issues-shield]: https://img.shields.io/github/issues/danielchang2002/repo.svg?style=for-the-badge
 [issues-url]: https://github.com/danielchang2002/repo/issues
 [license-shield]: https://img.shields.io/github/license/danielchang2002/repo.svg?style=for-the-badge
 [license-url]: https://github.com/danielchang2002/repo/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/danielchang2002
+[linkedin-url]: https://www.linkedin.com/in/daniel-chang-b93473204/
 
 
 
