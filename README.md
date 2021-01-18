@@ -172,10 +172,10 @@ Project Link: [https://github.com/danielchang2002/DogBreedClassification](https:
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 
-* [](https://github.com/fastai/fastbook/blob/master/01_intro.ipynb)
-* [](https://www.youtube.com/watch?v=BUh76-xD5qU&t=2259s&ab_channel=AbhishekThakur)
-* [](https://flask.palletsprojects.com/en/1.1.x/)
-* [](https://www.kaggle.com/jessicali9530/stanford-dogs-dataset)
+* []()https://github.com/fastai/fastbook/blob/master/01_intro.ipynb
+* []()https://www.youtube.com/watch?v=BUh76-xD5qU&t=2259s&ab_channel=AbhishekThakur
+* []()https://flask.palletsprojects.com/en/1.1.x/
+* []()https://www.kaggle.com/jessicali9530/stanford-dogs-dataset
 
 
 
