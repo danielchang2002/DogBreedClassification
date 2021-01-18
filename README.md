@@ -163,7 +163,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email
+Daniel Chang - [@twitter_handle](https://twitter.com/danielchang2002) - danielchang2002@gmail.com
 
 Project Link: [https://github.com/danielchang2002/DogBreedClassification](https://github.com/danielchang2002/DogBreedClassification)
 
@@ -172,9 +172,10 @@ Project Link: [https://github.com/danielchang2002/DogBreedClassification](https:
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 
-* []()
-* []()
-* []()
+* [](https://github.com/fastai/fastbook/blob/master/01_intro.ipynb)
+* [](https://www.youtube.com/watch?v=BUh76-xD5qU&t=2259s&ab_channel=AbhishekThakur)
+* [](https://flask.palletsprojects.com/en/1.1.x/)
+* [](https://www.kaggle.com/jessicali9530/stanford-dogs-dataset)
 
 
 
@@ -196,14 +197,8 @@ Project Link: [https://github.com/danielchang2002/DogBreedClassification](https:
 [linkedin-url]: https://linkedin.com/in/danielchang2002
 
 
-Dog breed classifier built using a convolutional neural network trained on the Stanford dog breed dataset. The ResNet34 and ResNet50 architectures were used, along with transfer learning with ImageNet weights.
-Workflow mimicked the one present in the first lesson of the fastai course.
-
-Dataset:
-https://www.kaggle.com/jessicali9530/stanford-dogs-dataset
 
 
 
-Works referenced:
-https://www.youtube.com/watch?v=BUh76-xD5qU&t=2259s&ab_channel=AbhishekThakur
-https://flask.palletsprojects.com/en/1.1.x/
+
+
