@@ -23,11 +23,12 @@
 
 ## About the Project
 
-Dog breed classifier built with the ResNet architecture and ImageNet transfer learning: trained on the Stanford dog breed dataset with the fastai library for pytorch
+Dog breed classifier built with the ResNet architecture and ImageNet transfer learning. This model was trained on the Stanford dog breed dataset from Kaggle with the fastai library for pytorch. After fitting the frozen ResNet50 model with ImageNet weights for 8 cycles, an accuracy of 0.904276 was achieved.
 
 ### Built With
 
 * [fastai/pytorch](https://docs.fast.ai/)
+* [kaggle notebook] (https://www.kaggle.com/danielchang2002/dog-breed-classification)
 * [flask](https://flask.palletsprojects.com/en/1.1.x/)
 * [heroku](heroku.com)
 
